@@ -1,0 +1,12 @@
+*.class
+/out/
+/bin/
+/target/
+.idea/
+*.iml
+.gitattributes
+*.md
+mvnw
+*.cmd
+.mvn/
+src/test/
