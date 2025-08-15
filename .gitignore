@@ -5,7 +5,7 @@
 .idea/
 *.iml
 .gitattributes
-*.md
+HELP.md
 mvnw
 *.cmd
 .mvn/
