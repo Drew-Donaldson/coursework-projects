@@ -15,7 +15,6 @@ This repository contains a Spring Boot 3 application developed as part of the Ud
     - Implemented token generation and validation for secure API access.
     - Configured a custom JWT authentication filter.
     - Secured endpoints using JWT-based authentication and authorization.
-    - Demonstrated handling of token expiration and refresh mechanisms.
 
 ## Technologies Used
 - **Java**: 17
@@ -23,14 +22,4 @@ This repository contains a Spring Boot 3 application developed as part of the Ud
 - **Spring Security**: 6.x
 - **JSON Web Tokens (JWT)**: For stateless authentication
 - **Maven**: Dependency management
-- **H2 Database**: For in-memory database testing
 - **Postman**: For testing API endpoints
-
-## Learning Outcomes
-Through this project, I gained hands-on experience with:
-- Configuring Spring Security to secure a REST API.
-- Implementing role-based access control (RBAC).
-- Using JWT for stateless authentication in a Spring Boot application.
-- Handling authentication filters and custom security configurations.
-- Best practices for securing APIs, including password encoding and token management.
-
